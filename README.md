@@ -8,7 +8,7 @@ This project is a React application developed using Redux and Redux Saga. It pro
 
 - Interactive world map displaying COVID-19 statistics for each country.
 - Detailed country view with confirmed cases, deaths, recoveries, and last update date.
-- Integration with the [COVID-19 Statistics API](https://rapidapi.com/axisbits-axisbits-default/api/covid-19-statistics/) for real-time data.
+- Integration with the [COVID-19 Statistics API](https://collectapi.com/api/corona/covid-19-coronavirus-statistics-api) for real-time data.
 - Loader implementation for API requests.
 - Error handling for API connection issues, ensuring smooth user experience.
 - Additional features can be added based on requirements.
